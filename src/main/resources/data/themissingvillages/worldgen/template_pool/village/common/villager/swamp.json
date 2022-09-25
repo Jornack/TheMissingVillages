@@ -1,0 +1,15 @@
+{
+    "name":"themissingvillages:village/common/villager/swamp",
+    "fallback":"themissingvillages:village/common/villager/swamp",
+    "elements":[
+        {
+            "weight":1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/common/villager/swamp",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}

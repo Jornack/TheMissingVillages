@@ -1,0 +1,70 @@
+{
+  "structures": [
+    {
+      "structure": "themissingvillages:large/jungle_village",
+      "weight": 1
+    },
+    {
+      "structure": "themissingvillages:large/jungle_sparse_village",
+      "weight": 1
+    },
+    {
+      "structure": "themissingvillages:large/jungle_bamboo_village",
+      "weight": 1
+    },
+    {
+      "structure": "themissingvillages:large/swamp_village",
+      "weight": 1
+    },
+    {
+      "structure": "themissingvillages:large/swamp_mangrove_village",
+      "weight": 1
+    },
+    {
+      "structure": "themissingvillages:medium/jungle_village",
+      "weight": 4
+    },
+    {
+      "structure": "themissingvillages:medium/jungle_sparse_village",
+      "weight": 4
+    },
+    {
+      "structure": "themissingvillages:medium/jungle_bamboo_village",
+      "weight": 4
+    },
+    {
+      "structure": "themissingvillages:medium/swamp_village",
+      "weight": 4
+    },
+    {
+      "structure": "themissingvillages:medium/swamp_mangrove_village",
+      "weight": 4
+    },
+    {
+      "structure": "themissingvillages:small/jungle_village",
+      "weight": 8
+    },
+    {
+      "structure": "themissingvillages:small/jungle_sparse_village",
+      "weight": 8
+    },
+    {
+      "structure": "themissingvillages:small/jungle_bamboo_village",
+      "weight": 8
+    },
+    {
+      "structure": "themissingvillages:small/swamp_village",
+      "weight": 8
+    },
+    {
+      "structure": "themissingvillages:small/swamp_mangrove_village",
+      "weight": 8
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 10387312,
+    "spacing": 50,
+    "separation": 25
+  }
+}

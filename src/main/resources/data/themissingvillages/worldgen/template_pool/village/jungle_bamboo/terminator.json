@@ -1,0 +1,43 @@
+{
+  "name":"themissingvillages:village/jungle_bamboo/terminator",
+  "fallback": "themissingvillages:village/jungle_bamboo/terminator",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/streets/terminator_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/streets/terminator_2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/streets/terminator_3",
+        "processors": "minecraft:empty"
+      }
+    }
+  ,
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/streets/terminator_4",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

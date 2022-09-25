@@ -1,0 +1,15 @@
+{
+  "name":"themissingvillages:village/common/iron_golem",
+  "fallback": "themissingvillages:village/common/iron_golem",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/common/iron_golem",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

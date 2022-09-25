@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "themissingvillages",
+  "version": "2.0.1",
+  "name": "BigReefer's The Missing Villages Mod",
+  "description": "Adds missing villages to minecraft, now jungle and swamp villagers have a home!",
+  "authors": [
+    "BigReefer"
+  ],
+  "contact": {
+    "sources": "https://github.com/bigreefer/TheMissingVillages",
+    "issues": "https://github.com/bigreefer/TheMissingVillages/issues"
+  },
+  "license": "https://www.mit.edu/~amini/LICENSE.md",
+  "icon": "themissingvillages.png",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.14.7",
+    "minecraft": ">=1.19"
+  }
+}

@@ -1,0 +1,78 @@
+{
+    "name": "themissingvillages:village/swamp/streets",
+    "fallback": "themissingvillages:village/swamp/terminator",
+    "elements": [
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/streets/straight_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/streets/straight_2",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/streets/straight_3",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/streets/crossroad_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/streets/crossroad_2",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/streets/corner_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/streets/corner_2",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/streets/split_1",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}

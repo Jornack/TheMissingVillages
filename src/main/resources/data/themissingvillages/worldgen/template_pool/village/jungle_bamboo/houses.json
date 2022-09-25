@@ -1,0 +1,213 @@
+{
+  "name":"themissingvillages:village/jungle_bamboo/houses",
+  "fallback": "themissingvillages:village/jungle_bamboo/walls",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_large_house_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_medium_house_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_small_house_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_small_house_2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_small_house_3",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_armorer_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_butchers_shop_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_cartographer_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_fisher_cottage_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_fletcher_house_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_large_farm_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_animal_pen_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_animal_pen_2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_animal_pen_3",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_animal_pen_4",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_library_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_masons_house_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_shepherds_house_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_small_farm_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_tannery_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_temple_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_tool_smith_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/houses/bamboo_weaponsmith_1",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

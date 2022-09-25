@@ -1,0 +1,33 @@
+{
+  "name":"themissingvillages:village/jungle_sparse/terminator",
+  "fallback": "themissingvillages:village/jungle_sparse/terminator",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "themissingvillages:village/jungle_sparse/streets/terminator_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "themissingvillages:village/jungle_sparse/streets/terminator_2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "location": "themissingvillages:village/jungle_sparse/streets/terminator_3",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

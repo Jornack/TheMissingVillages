@@ -1,0 +1,15 @@
+{
+    "name": "themissingvillages:village/swamp/decor",
+    "fallback": "themissingvillages:village/swamp/decor",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/swamp/decor/swamp_lamp_1",
+              "processors": "minecraft:empty"
+            }
+        }
+    ]
+}

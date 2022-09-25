@@ -1,0 +1,186 @@
+{
+    "name":"themissingvillages:village/jungle/houses",
+    "fallback": "themissingvillages:village/jungle/walls",
+    "elements": [
+        {
+            "weight": 15,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_large_house_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 15,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_small_house_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_armorer_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_butchers_shop_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_cartographer_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_fisher_cottage_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_fletcher_house_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_large_farm_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_animal_pen_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_animal_pen_2",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_animal_pen_3",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_animal_pen_4",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_library_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_masons_house_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_shepherds_house_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_small_farm_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_tannery_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_temple_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_tool_smith_1",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "themissingvillages:village/jungle/houses/jungle_weaponsmith_1",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "name":"themissingvillages:village/common/ocelots",
+  "fallback": "themissingvillages:village/common/ocelots",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/common/ocelots",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

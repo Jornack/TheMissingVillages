@@ -1,0 +1,15 @@
+{
+  "name":"themissingvillages:village/common/parrot",
+  "fallback": "themissingvillages:village/common/parrot",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/common/parrots",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

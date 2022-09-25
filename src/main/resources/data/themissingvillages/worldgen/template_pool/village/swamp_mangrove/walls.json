@@ -1,0 +1,24 @@
+{
+  "name": "themissingvillages:village/swamp_mangrove/walls",
+  "fallback": "themissingvillages:village/swamp_mangrove/walls",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/swamp_mangrove/walls/wall_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/swamp_mangrove/walls/wall_2",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

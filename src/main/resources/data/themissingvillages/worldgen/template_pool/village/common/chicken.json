@@ -1,0 +1,15 @@
+{
+  "name":"themissingvillages:village/common/chicken",
+  "fallback": "themissingvillages:village/common/chicken",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/common/chicken",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

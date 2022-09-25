@@ -1,0 +1,33 @@
+{
+  "name": "themissingvillages:village/jungle_bamboo/walls",
+  "fallback": "themissingvillages:village/jungle_bamboo/walls",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/walls/wall_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/walls/wall_2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "themissingvillages:village/jungle_bamboo/walls/wall_3",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
