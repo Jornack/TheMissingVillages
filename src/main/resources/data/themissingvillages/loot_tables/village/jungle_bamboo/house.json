@@ -115,7 +115,7 @@
         {
           "type": "minecraft:item",
           "weight": 5,
-          "name": "minecraft:bamboo_sapling",
+          "name": "minecraft:bamboo",
           "functions": [
             {
               "function": "minecraft:set_count",
